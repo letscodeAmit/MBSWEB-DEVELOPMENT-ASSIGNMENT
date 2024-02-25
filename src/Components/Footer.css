@@ -1,0 +1,61 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: auto;
+}
+
+.upper-part {
+  height: 50%;
+  width: 100%;
+  background: yellow;
+}
+
+.lower-part {
+  height: 50%;
+  width: 100%;
+  background: black;
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+.fa-youtube {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+.fa-flickr {
+  color: white;
+}
+
+.fa-reddit {
+  color: white;
+}
